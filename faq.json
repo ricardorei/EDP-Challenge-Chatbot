@@ -1,0 +1,821 @@
+{
+	"FAQ1": {
+		"subject": "Descobrir o mercado livre",
+		"size": 2,
+		"subFAQ1": {
+			"name": "Sobre o mercado livre",
+			"size": 4,
+
+			"question1": "O que é o mercado livre de energia?",
+			"answer1": "O mercado livre permite-lhe escolher o seu comercializador de eletricidade e gás natural. A oferta comercial e os respetivos preços da energia são determinados por cada comercializador, e não pela ERSE. A EDP Comercial opera no mercado livre de energia.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/mercado-livre/sobre-o-mercado-livre/o-que-e-o-mercado-livre-de-energia/faq-4272",
+
+			"question2": "Tenho de mudar para o mercado livre?",
+			"answer2": "Caso pretenda, poderá permanecer no mercado regulado até ao final de 2020, estando prevista a aplicação de uma tarifa transitória. A partir dessa data, deverá ter o seu contrato de eletricidade e gás natural num comercializador de mercado livre.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/mercado-livre/sobre-o-mercado-livre/tenho-de-mudar-para-o-mercado-livre/faq-4325",
+
+			"question3": "Posso continuar a ser cliente da EDP no mercado livre?",
+			"answer3": "Sim, se já é cliente da EDP Serviço Universal no mercado regulado, pode continuar a ser cliente da EDP no mercado livre, se aderir à EDP Comercial.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/mercado-livre/sobre-o-mercado-livre/posso-continuar-a-ser-cliente-da-edp-no-mercado-livre/faq-4312",
+
+			"question4": "O que implica mudar de comercializador de energia?",
+			"answer4": "A mudança de comercializador é um processo simples que não implica a interrupção no fornecimento de energia em sua casa. Não tem qualquer custo e pode ser feito em qualquer momento.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/mercado-livre/sobre-o-mercado-livre/o-que-implica-mudar-de-fornecedor-de-energia/faq-4329"
+		},
+
+		"subFAQ2": {
+			"name": "Descontos sociais, direitos e compensacoes no mercado livre",
+			"size": 2,
+
+			"question1": "Posso ter Tarifa Social no mercado livre?",
+			"answer1": "Pode, desde que cumpra as condições de elegibilidade definidas na lei. A Tarifa Social é um desconto adicional na eletricidade e/ou no gás natural que se destina aos consumidores economicamente vulneráveis e é acumulável a qualquer oferta da EDP Comercial.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/mercado-livre/descontos-sociais-direitos-e-compensacoes-no-mercado-livre/posso-ter-tarifa-social-no-mercado-livre/faq-4331",
+
+			"question2": "Que direitos e compensações posso ter no mercado livre?",
+			"answer2": "Os clientes do mercado livre dispõem de direitos e deveres previstos pela Constituição Portuguesa. Pode ter direito a compensações quando determinados níveis de qualidade técnica e comercial dos serviços contratados não sejam atingidos.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/mercado-livre/descontos-sociais-direitos-e-compensacoes-no-mercado-livre/que-direitos-e-compensacoes-posso-ter-no-mercado-livre/faq-4674"
+		}
+	},
+
+	"FAQ2": {
+		"subject": "Conhecer tarifários",
+		"size": 2,
+		"subFAQ1": {
+			"name": "Tarifários de Energia e Serviços",
+			"size": 4,
+
+			"question1": "Quais as vantagens da campanha gás + eletricidade e como posso aderir?",
+			"answer1": "Quem aderiu à campanha até 28 de janeiro tem direito a um desconto de 10% no gás natural e 5% na eletricidade (válidos durante 6 meses). Esta campanha não tem qualquer período de fidelização associado.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/tarifarios-de-energia-e-servicos/quais-as-vantagens-da-campanha-gas-eletricidade-e-como-posso-aderir/faq-10591",
+
+			"question2": "Quais são os tarifários da EDP Comercial?",
+			"answer2": "Temos vários planos de energia para fornecimento de eletricidade, gás natural ou de ambos (oferta dual). Veja qual o plano mais adequado para si e peça a adesão online, através do 808 53 53 53 (dias úteis, das 8h às 22h) ou numa loja ou agente EDP.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/tarifarios-de-energia-e-servicos/quais-sao-os-tarifarios-da-edp-no-mercado-livre/faq-4613",
+
+			"question3": "Que serviços de energia posso ter?",
+			"answer3": "A EDP Comercial disponibiliza um conjunto de serviços de energia e equipamentos que lhe permitem ser mais eficiente no seu consumo e trazer maior conforto e segurança à sua casa. Conheça todos os serviços que temos para si.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/tarifarios-de-energia-e-servicos/que-servicos-de-energia-posso-ter/faq-4651",
+			
+			"question4": "O que é a oferta em condições de preço regulado e como posso aderir?",
+			"answer4": "A portaria nº 348/2017 possibilita aos clientes do mercado livre poderem voltar a contratar eletricidade em condições de preço regulado. Se o seu atual fornecedor não tiver disponível uma oferta nessas condições, poderá contratar a tarifa regulada no CUR.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/tarifarios-de-energia-e-servicos/sobre-a-oferta-em-condicoes-de-preco-regulado/faq-10573"
+		},
+
+		"subFAQ2": {
+			"name": "O que preciso de saber para contratar?",
+			"size": 11,
+
+			"question1": "Que documentos preciso para contratar?",
+			"answer1": "Saiba quais os documentos necessários para fazer um contrato.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/que-documentos-preciso-para-contratar/faq-8129",
+
+			"question2": "O que é o CPE e o CUI e como posso obtê-los?",
+			"answer2": "O CPE (código de ponto de entrega) é o número que identifica a sua instalação elétrica e o CUI (código universal da instalação) é o número que identifica a sua instalação de gás natural.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/o-que-e-o-cpe-e-o-cui-e-como-posso-obte-los/faq-8142",
+
+			"question3": "Quais as vantagens da campanha gás + eletricidade e como posso aderir?",
+			"answer3": "Quem aderiu à campanha até 28 de janeiro tem direito a um desconto de 10% no gás natural e 5% na eletricidade (válidos durante 6 meses). Esta campanha não tem qualquer período de fidelização associado.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/quais-as-vantagens-da-campanha-gas-eletricidade-e-como-posso-aderir/faq-10591",
+			
+			"question4": "O que inclui o preço de energia?",
+			"answer4": "O preço da energia é composto por uma parte fixa e outra variável. A parte fixa diz respeito à potência elétrica contratada e ao escalão de consumo de gás, enquanto que a componente varíavel inclui a energia consumida no período e as taxas e impostos.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/o-que-inclui-o-preco-de-energia/faq-4669",
+
+			"question5": "O que é a potência contratada e qual devo escolher?",
+			"answer5": "A potência contratada define o valor máximo de eletricidade que a sua instalação elétrica pode receber. Esta irá determinar o número de equipamentos elétricos que poderá ligar em simultâneo.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/o-que-e-a-potencia-contratada-e-qual-devo-escolher/faq-4676",
+
+			"question6": "O que é a opção horária e qual a melhor para mim?",
+			"answer6": "A opção horária é a forma como a eletricidade é faturada. Determina se o preço é o mesmo a qualquer hora (opção simples) ou se há horários mais económicos que outros (bi-horária/tri-horária). A melhor opção para si depende do seu nível e horário de consumo.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/o-que-e-a-opcao-horaria-e-qual-a-melhor-para-mim/faq-4823",
+
+			"question7": "O que é um escalão de consumo de gás?",
+			"answer7": "As tarifas de gás natural no mercado livre dividem-se em quatro escalões de consumo, determinados pelo nível de consumo anual de cada cliente. Pode consultar o seu escalão de gás natural na fatura ou na sua área de cliente.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/o-que-e-um-escalao-de-consumo-de-gas/faq-4857",
+
+			"question8": "Quais são as condições do meu novo contrato?",
+			"answer8": "O seu contrato de eletricidade e/ou gás natural  é composto por condições gerais (aplicáveis a todos os contratos) e partciculares (que dependem do plano de energia e serviços contratados). Para conhecer em detalhe as condições aceda à página &quot;Tarifários&quot;.",
+			"link8": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/que-dados-preciso-de-dar-e-quais-sao-as-condicoes-do-meu-novo-contrato/faq-5056",
+
+			"question9": "Que meios de pagamento tenho disponíveis?",
+			"answer9": "Pode pagar as suas faturas através de débito direto, multibanco, payshop, CTT ou numa das nossas lojas ou agentes. Caso pretenda garantir o pagamento atempado das suas faturas, com a máxima comodidade e sem preocupações, o débito direto é a melhor solução.",
+			"link9": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/que-meios-de-pagamento-tenho-disponiveis/faq-4985",
+
+			"question10": "Sobre a Fatura Eletrónica",
+			"answer10": "A Fatura Eletrónica é igual à fatura que lhe chega por correio e cumpre todas as exigências legais. O que muda é apenas a forma de envio: chega até si por e-mail.",
+			"link10": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/sobre-a-fatura-eletronica/faq-5093",
+
+			"question11": "Sobre a Conta Certa",
+			"answer11": "A Conta Certa é um acordo que lhe permite pagar um valor fixo na fatura de eletricidade e/ou gás natural durante 11 meses, fazendo um acerto de contas no 12º mês. Desta forma, evita oscilações no valor da fatura ao longo do ano, pagando sempre o mesmo.",
+			"link11": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/tarifarios/o-que-preciso-de-saber-para-contratar/sobre-a-conta-certa/faq-5097"
+		}
+	},
+
+	"FAQ3": {
+		"subject": "Conhecer Serviços",
+		"size": 14,
+		"subFAQ1": {
+			"name": "Funciona",
+			"size": 7,
+
+			"question1": "O que é o serviço Funciona e o que está incluído?",
+			"answer1": "O Funciona é um serviço de revisão, manutenção e assistência técnica para clientes em Portugal Continental. Inclui 600€ em assistência técnica, revisões das instalações de gás e eletricidade, auditoria à iluminação e manutenção de equipamentos.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/funciona/o-que-e-o-servico-funciona-e-o-que-esta-incluido/faq-4503",
+
+			"question2": "Quero saber mais sobre a revisão anual das instalações de gás e de eletricidade",
+			"answer2": "A revisão anual assegura a segurança da sua casa, verificando o estado das instalações de gás e eletricidade e identificando eventuais anomalias. Inclui testes a fugas de gás, excesso de monóxido de carbono, sobrecargas, curto-circuitos, entre outros.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/funciona/quero-saber-mais-sobre-a-revisao-anual-da-instalacao-de-gas-e-de-eletricidade/faq-4536",
+
+			"question3": "Quero saber mais sobre o serviço de assistência técnica Funciona",
+			"answer3": ">Em caso de avaria de eletrodomésticos de cozinha ou das instalações de gás/eletricidade, o Funciona disponibiliza serviço de assistência técnica (deslocação, mão de obra e 25% do valor das peças) com um plafond anual de 600€ (máx. 3 intervenções/ano).",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/funciona/quero-saber-mais-sobre-o-servico-de-assistencia-tecnica/faq-4542",
+			
+			"question4": "Quero saber mais sobre a manutenção anual da caldeira a gás",
+			"answer4": "A manutenção anual da caldeira prolonga a vida do equipamento e permite poupar energia ao verificar o seu bom funcionamento, eventuais fugas de gás ou de monóxido de carbono e ao limpar os radiadores dos aquecimentos. Exclusiva do serviço Funciona+Caldeira.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/funciona/quero-saber-mais-sobre-a-manutencao-anual-da-caldeira-a-gas/faq-4576",
+
+			"question5": "Qual é a duração do serviço Funciona e como posso aderir?",
+			"answer5": "O contrato do serviço Funciona tem a duração de um ano, sendo renovável automaticamente por igual período. Pode aderir online, através do 808 53 53 53 ou em qualquer loja ou agente EDP.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/funciona/qual-e-a-duracao-do-servico-funciona-e-como-posso-aderir/faq-4592",
+
+			"question6": "Quero saber mais sobre a manutenção do ar condicionado",
+			"answer6": "A manutenção anual do ar condicionado aumenta a longevidade do equipamento e contribui para uma melhor qualidade do ar, evitando a concentração de fungos e bactérias. Inclui 10 testes e verificações aos equipamentos de ar condicionado.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/funciona/quero-saber-mais-sobre-a-manutencao-do-ar-condicionado/faq-6253",
+
+			"question7": "Quero saber mais sobre a auditoria à iluminação",
+			"answer7": "A auditoria à iluminação permite reduzir a fatura da energia, identificando as lâmpadas que consomem mais e que podem ser substituídas por LED. O orçamento das lâmpadas é entregue durante a visita e, em caso de adjudicação, a instalação é feita na hora.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/funciona/quero-saber-mais-sobre-a-auditoria-de-iluminacao/faq-10140"
+		},
+
+		"subFAQ2": {
+			"name": "Plano EDP Mais",
+			"size": 2,
+
+			"question1": "O que é o Plano EDP Mais e quais as vantagens em aderir?",
+			"answer1": "O Plano EDP Mais disponibiliza um conjunto de serviços e benefícios que inclui um plano de saúde, com acesso a consultas médicas a 25€ numa rede com mais de 29 mil prestadores de saúde, e um plano de lazer com descontos em cultura e entretenimento.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/plano-edp-mais/o-que-e-o-plano-edp-mais-e-quais-as-vantagens-em-aderir/faq-11123",
+
+			"question2": "Como utilizar o Plano EDP Mais?",
+			"answer2": "Assim que receber o seu cartão EDP Mais poderá começar a usufruir de todas as vantagens associadas, agendando as suas consultas médicas ou atividades de lazer, por telefone ou e-mail.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/plano-edp-mais/como-utilizar-o-plano-edp-mais/faq-11179"
+		},
+
+		"subFAQ3": {
+			"name": "Certificação energética",
+			"size": 2,
+
+			"question1": "Porque preciso de certificação energética e o que vão avaliar?",
+			"answer1": "A certificação energética é obrigatória em contratos de compra e venda ou arrendamento. Este serviço permite avaliar o comportamento térmico dos elementos construtivos da habitação e os sistemas de aquecimento e ventilação.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-energetica/porque-preciso-de-uma-certificacao-energetica-e-o-que-vao-avaliar/faq-4171",
+
+			"question2": "O que preciso de saber para pedir uma certificação energética?",
+			"answer2": "Para pedir a certificação energética deve entregar fotocópias da Caderneta Predial Urbana (ato requerido nas finanças) e da Certidão da Conservatória do Registo Predial. O preço da certificação varia consoante a tipologia, área e utilização do imóvel.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-energetica/o-que-preciso-de-saber-para-pedir-uma-certificacao-energetica/faq-4219"
+		},
+
+		"subFAQ4": {
+			"name": "Bombas de calor",
+			"size": 4,
+
+			"question1": "O que é uma bomba de calor e quais os modelos disponíveis?",
+			"answer1": "A bomba de calor é a solução ideal para aquecer água de forma eficiente. Utiliza a mesma tecnologia do ar condicionado, sendo 3 vezes mais eficiente e económica do que os esquentadores e termoacumuladores convencionais.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/bombas-de-calor/o-que-e-uma-bomba-de-calor-e-quais-os-modelos-disponiveis/faq-4073",
+
+			"question2": "O que preciso de fazer para instalar uma bomba de calor em minha casa?",
+			"answer2": "Primeiro é necessário avaliar se a sua casa tem as condições necessárias para a instalação da bomba de calor.  A visita técnica tem um custo de 25 € (c/IVA), a descontar no valor do equipamento caso o venha a instalar.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/bombas-de-calor/o-que-preciso-de-fazer-para-instalar-uma-bomba-de-calor-em-minha-casa/faq-4087",
+
+			"question3": "Quais os requisitos técnicos de uma bomba de calor?",
+			"answer3": "Pelas suas características, uma bomba de calor tem requisitos técnicos muito específicos que são importantes conhecer para melhor utilização e preservação do equipamento.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/bombas-de-calor/quais-os-requisitos-tecnicos-de-uma-bomba-de-calor/faq-8560",
+			
+			"question4": "Estou interessado em adquirir uma bomba de calor, o que tenho de fazer?",
+			"answer4": "Faça aqui a simulação e saiba qual a melhor solução para a sua casa. Se preferir, contacte-nos através da linha de atendimento a clientes 808 53 53 53 para agendar uma visita técnica e receber um orçamento.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/bombas-de-calor/estou-interessado-em-ter-uma-bomba-de-calor-o-que-tenho-de-fazer/faq-4116"
+		},
+
+		"subFAQ5": {
+			"name": "edp re:dy",
+			"size": 7,
+
+			"question1": "O que posso fazer com o edp re:dy?",
+			"answer1": "O edp re:dy permite-lhe ter uma vida mais simples, eficiente, inteligente e confortável. Entre outras funcionalidades, permite controlar consumos e equipamentos à distância e em tempo real, receber alertas de desperdícios e oportunidades de poupança.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/redy/o-que-posso-fazer-com-o-edp-redy/faq-4665",
+
+			"question2": "Como posso escolher a minha solução edp re:dy?",
+			"answer2": "Para adquirir o edp re:dy é necessário ser cliente particular EDP Comercial e ter uma potência elétrica contratada até 41,4 kVA em BTN. Pode aderir online ou através do 808 91 43 72, optando por uma solução predefinida ou personalizada à sua medida.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/redy/como-posso-escolher-a-minha-solucao-edp-redy/faq-4720",
+
+			"question3": "Quais são as componentes do edp re:dy?",
+			"answer3": "O edp re:dy é composto pela edp re:dy box e por um conjunto de periféricos edp re:dy. Para que possa gerir os seus consumos e equipamentos de forma eficiente e cómoda, pode instalar a app edp re:dy  e controlar tudo a partir do seu smartphone ou tablet.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/redy/quais-sao-as-componentes-do-edp-redy/faq-4747",
+			
+			"question4": "Como posso utilizar as componentes edp re:dy?",
+			"answer4": "O edp re:dy tem várias funcionalidades que promovem a eficência energética de sua casa. Por exemplo, pode ativar o sistema de alertas, programar em horário económico, configurar o controlo de limite de potência ou ativar a função de controlo orçamental.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/redy/quero-saber-mais-sobre-a-utilizacao-das-componentes-do-edp-redy/faq-4793",
+
+			"question5": "Quanto custa o edp re:dy?",
+			"answer5": "O serviço edp re:dy tem um custo de 3,90€ por mês e um preço individual de acordo com o valor dos periféricos que selecionar. Não tem período de fidelização associado.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/redy/quanto-custa-o-edp-redy/faq-4831",
+
+			"question6": "Estou interessado no edp re:dy. O que tenho de fazer e como funciona a instalação?",
+			"answer6": "Saiba como aderir ao edp re:dy e como funciona a instalação.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/redy/estou-interessado-no-edp-redy-o-que-tenho-de-fazer-e-como-funciona-a-instalacao/faq-4852",
+
+			"question7": "Para que serve a programação de modos do edp re:dy?",
+			"answer7": "A programação de modos serve para definir o estado da minha casa em certas circunstâncias.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/redy/para-que-serve-a-programacao-dos-modos-do-edp-redy/faq-6198"
+		},
+
+		"subFAQ6": {
+			"name": "Mobilidade elétrica",
+			"size": 7,
+
+			"question1": "Como funciona um veículo elétrico?",
+			"answer1": "Um veículo 100% elétrico funciona exclusivamente através de um motor elétrico, alimentado pela energia armazenada nas suas baterias. Estas podem ser carregadas através de uma simples tomada elétrica ou num posto de carregamento.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/mobilidade-eletrica/como-funciona-um-veiculo-eletrico/faq-5343",
+
+			"question2": "Porquê escolher um carro elétrico?",
+			"answer2": "Um veículo elétrico é uma experiência inovadora, prepare-se para uma condução eficiente, segura e silenciosa. Pode carregar o seu carro onde for mais conveniente, seja em casa, no escritório ou num espaço público.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/mobilidade-eletrica/porque-escolher-um-carro-eletrico/faq-5385",
+
+			"question3": "Como posso poupar com um carro elétrico?",
+			"answer3": "Pode poupar na utilização quotidiana do seu veículo e na sua manutenção. Saiba aqui como.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/mobilidade-eletrica/como-posso-poupar/faq-5422",
+			
+			"question4": "Como posso carregar o meu veículo elétrico?",
+			"answer4": "Pode carregar o seu veículo elétrico em casa, através de cabo específico ou de posto de carregamento ou na rede pública MOBI.E.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/mobilidade-eletrica/como-posso-carregar-o-meu-veiculo-eletrico/faq-5434",
+
+			"question5": "O que é um posto de carregamento EDP?",
+			"answer5": "É um equipamento que lhe permite carregar o seu veículo elétrico com toda a segurança. Pode ser instalado em sua casa ou na sua empresa e permite-lhe carregar qualquer modelo de veículo elétrico vendido em Portugal.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/mobilidade-eletrica/o-que-e-um-posto-de-carregamento-e-o-que-e-o-charge2move/faq-5587",
+
+			"question6": "O que é o plano de mobilidade elétrica e quais as vantagens?",
+			"answer6": "O plano de mobilidade elétrica EDP Comercial é um tarifário específico para clientes com veículos elétricos, que proporciona poupanças de 10% durante a noite. Este tarifário (bi-horário ou tri-horário) aplica-se a todo o consumo realizado na sua casa.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/mobilidade-eletrica/o-que-e-o-tarifario-energy2move-e-quais-as-vantagens/faq-5660",
+
+			"question7": "Quero aderir à mobilidade elétrica. O que tenho de fazer?",
+			"answer7": "Saiba como aderir à mobilidade elétrica aqui.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/mobilidade-eletrica/quero-aderir-a-mobilidade-eletrica-o-que-tenho-de-fazer/faq-5675"
+		},
+
+		"subFAQ7": {
+			"name": "Energia solar",
+			"size": 7,
+
+			"question1": "Quais são as soluções de energia solar da edp?",
+			"answer1": "As soluções de energia solar em autoconsumo permitem-lhe produzir e consumir a sua própria eletricidade, de origem solar, na sua casa.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/energia-solar/quais-sao-as-solucoes-de-energia-solar-da-edp/faq-4246",
+
+			"question2": "Quais são as vantagens e o que preciso de saber para produzir a minha própria energia?",
+			"answer2": "Qualquer pessoa pode produzir energia solar, desde que tenha uma instalação de utilização de energia elétrica ligada à rede pública e seja titular de um contrato de fornecimento de energia.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/energia-solar/quais-sao-as-vantagens-e-o-que-preciso-de-saber-para-produzir-a-minha-propria-energia/faq-4253",
+
+			"question3": "Quanto custam os painéis solares e quanto posso poupar?",
+			"answer3": "A partir de 19,90€ por mês (instalação e IVA incluído) já pode ter o seu sistema de energia solar EDP. No entanto, o preço varia consoante a dimensão do sistema de energia solar.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/energia-solar/quanto-custam-os-paineis-solares-e-quanto-posso-poupar/faq-4274",
+			
+			"question4": "Quero aderir ao sistema solar de autoconsumo da edp. O que tenho de fazer?",
+			"answer4": "Tratamos de todo o processo por si, de forma a garantir que o sistema é instalado nas melhores condições de segurança e rendimento. Só precisa de nos contactar através do 808 91 43 72.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/energia-solar/quero-aderir-ao-sistema-solar-de-autoconsumo-da-edp-o-que-tenho-de-fazer/faq-4292",
+
+			"question5": "Diferença entre as unidades de produção para autoconsumo e unidades de pequena produção",
+			"answer5": "Nas UPAC a energia solar produzida é utilizada para abastecer a casa a que está associada, sendo a energia excedente injetada na rede enquanto nas UPP toda a energia produzida é injetada na rede.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/energia-solar/qual-diferenca-entre-as-unidades-de-producao-para-autoconsumo-e-unidades-de-pequena-producao/faq-11114",
+
+			"question6": "Diferença entre autoconsumo e microgeração e qual o enquadramento legal da energia solar edp",
+			"answer6": "Com a nova legislação aplicável (Decreto-Lei 153/2014), a energia produzida em autoconsumo é utilizada para abastecer as necessidades de eletricidade da casa, sendo apenas injetado na Rede Elétrica de Serviço Público a energia excedente.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/energia-solar/qual-e-a-diferenca-entre-autoconsumo-e-microgeracao-e-qual-o-enquadramento-legal-da-energia-solar-edp/faq-4327",
+
+			"question7": "O que é o plano de Energia Solar EDP e quais as vantagens?",
+			"answer7": "O plano de Energia Solar EDP é um plano específico para clientes que adiram à energia solar até final de 2018 e que lhes garante 10% de desconto em eletricidade à noite.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/energia-solar/o-que-e-o-plano-tarifario-energia-solar-edp-e-quais-as-vantagens/faq-6676"
+		},
+
+		"subFAQ8": {
+			"name": "Auditoria energética",
+			"size": 3,
+
+			"question1": "O que é uma auditoria energética e porque preciso de fazer uma?",
+			"answer1": "A auditoria energética é um serviço que avalia a eficiência energética da sua casa. Permite-lhe conhecer os seus consumos em detalhe, saber como reduzir os seus custos e obter aconselhamento personalizado para melhorar a sua eficiência energética.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/auditoria-energetica/o-que-e-uma-auditoria-energetica-e-porque-preciso-de-fazer/faq-4037",
+
+			"question2": "O que está incluído na auditoria energética e como posso pedir uma?",
+			"answer2": "Uma auditoria energética inclui uma análise detalhada de consumos por forma a permitir identificar a solução ideal para a sua casa, em termos de eficiência energética.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/auditoria-energetica/o-que-esta-incluido-na-auditoria-energetica-e-como-posso-pedir-uma/faq-6200",
+
+			"question3": "Como posso implementar as medidas recomendadas e qual o preço da auditoria?",
+			"answer3": ">Se quiser seguir as medidas recomendadas pela auditoria energética como, por exemplo, a alteração da potência contratada, mudança de tarifário ou de equipamento, deve contactar o seu comercializador de energia.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/auditoria-energetica/como-posso-implementar-as-medidas-recomendadas-e-qual-o-preco-da-auditoria/faq-4068"
+		},
+
+		"subFAQ9": {
+			"name": "Fatura segura",
+			"size": 2,
+
+			"question1": "Como posso ter Fatura Segura e porque devo aderir?",
+			"answer1": "Para ter Fatura Segura basta ser cliente particular da EDP Comercial, ter mais de 18 anos e aderir ao serviço. Este seguro garante o pagamento da sua fatura de energia em qualquer momento da sua vida, por apenas 1,40 € por mês.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/fatura-segura/posso-ter-fatura-segura-e-porque-devo-aderir/faq-4473",
+
+			"question2": "Qual é a cobertura e como aciono o seguro?",
+			"answer2": "A Fatura Segura cobre casos de desemprego involuntário ou incapacidade temporária, em 800€, e casos de invalidez absoluta/definita acidental ou morte acidental, em 800€ ou 1200€ (se tiver mais de 66 anos). Para acionar o seguro, ligue 210 463 866.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/fatura-segura/qual-e-a-cobertura-e-como-aciono-o-seguro/faq-4479"
+		},
+
+		"subFAQ10": {
+			"name": "Iluminação Eficiente",
+			"size": 3,
+
+			"question1": "Quais são as vantagens das lâmpadas LED?",
+			"answer1": "As lâmpadas LED são mais eficientes, mais duradouras, mais rápidas a iluminar e mais sustentáveis do que as tradicionais lâmpadas de halogéneo. Ao trocar as suas lâmpadas por LED poderá reduzir a sua fatura de energia.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/iluminacao-eficiente/quero-saber-mais-sobre-lampadas-led/quais-sao-as-vantagens-das-lampadas-led/faq-4612",
+
+			"question2": "Quais são as características de uma lâmpada LED?",
+			"answer2": "Saiba mais sobre a temperatura da cor de uma lâmpada, potência equivalente e o que é o fluxo luminoso, para compreender melhor as vantagens de uma lâmpada LED face a uma de Halogéneo.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/iluminacao-eficiente/quero-saber-mais-sobre-lampadas-led/quais-sao-as-caracteristicas-de-uma-lampada-led/faq-4628",
+
+			"question3": "Como posso trocar as minhas lâmpadas por lâmpadas LED ao abrigo do PPEC?",
+			"answer3": "Basta dirigir-se a uma loja EDP aderente, levar as suas lâmpadas de halogéneo (casquilho E27 e E14) e adquirir o número equivalente de lâmpadas LED por apenas 1€ por cada unidade.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/iluminacao-eficiente/quero-conhecer-a-campanha-de-iluminacao-ppec/como-posso-trocar-as-minhas-lampadas-por-lampadas-led/faq-4641"
+		},
+
+		"subFAQ11": {
+			"name": "Certificação de gás",
+			"size": 7,
+
+			"question1": "O que é a Certificação de Gás e o que esperar?",
+			"answer1": "A Certificação de Gás é uma inspeção feita por entidades parceiras credenciadas para verificar a segurança da sua instalação de gás. É obrigatória para dar início ao fornecimento e requer a visita de um técnico que fará os testes/verificações necessários.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-de-gas/o-que-e-a-certificacao-de-gas-e-o-que-esperar/faq-4121",
+
+			"question2": "Quando é necessário realizar uma inspeção de gás e o que tenho de fazer?",
+			"answer2": "A inspeção de gás é obrigatória em vários casos: em novas ligações, após deteção de fuga, alterações à tubagem e em mudanças de comercializador ou de titular – nestes últimos dois casos, pode dispensar uma nova inspeção se apresentar um certificado válido.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-de-gas/quando-e-necessario-realizar-uma-inspecao-de-gas-e-o-que-tenho-de-fazer/faq-4126",
+
+			"question3": "O que acontece após a inspeção de gás?",
+			"answer3": "Após a realização da inspeção, recebe o relatório elaborado pela Entidade Inspetora que lhe indica se a certificação foi aprovada ou reprovada.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-de-gas/o-que-acontece-apos-a-inspeccao-de-gas/faq-4147",
+			
+			"question4": "Estou ausente e preciso de reagendar, o que fazer?",
+			"answer4": "Para alterar o dia ou a hora do agendamento, ligue para o 808 53 53 53 (dias úteis, das 8h às 22h) até 12 horas antes da hora agendada para o início do serviço.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-de-gas/estou-ausente-e-preciso-de-reagendar-o-que-fazer/faq-4156",
+
+			"question5": "Preciso de um certificado para contratar gás natural com a EDP em mercado livre?",
+			"answer5": "Precisa de um novo certificado sempre que o local não tiver fornecimento de gás natural ou se mudar de comercializador ou titular sem apresentar um certificado de inspeção válido e entregar uma declaração de conformidade da instalação de gás natural.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-de-gas/preciso-de-um-certificado-para-contratar-gas-natural-com-a-edp-em-mercado-livre/faq-4161",
+
+			"question6": "Qual o preço da Certificação de Gás?",
+			"answer6": "A Certificação de Gás tem o custo de 60€ para clientes particulares. Em caso de reprovação, e se utilizar a nossa assistência técnica, terá um desconto de 10€ na reinspeção. Saiba ainda quais os preços praticados pela assistência técnica especializada.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-de-gas/qual-o-preco-da-certificacao-de-gas/faq-4166",
+
+			"question7": "Estou isento de pedir um novo certificado de inspeção de gás natural? Em que situações?",
+			"answer7": "A instalação de gás deve estar sempre certificada de acordo com a periodicidade estabelecida e outras situações contempladas na lei. Em caso de mudança de comercializador ou titular, pode estar isento de nova inspeção caso apresente um certificado válido.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/certificacao-de-gas/estou-isento-da-certificacao-de-gas-como-posso-comprovar/faq-6296"
+		},
+
+		"subFAQ12": {
+			"name": "Esquentadores",
+			"size": 4,
+
+			"question1": "O que inclui o serviço dos esquentadores?",
+			"answer1": "Este serviço inclui a aquisição de esquentadores, acessórios para instalação base e respectiva instalação.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/esquentadores/o-que-inclui-o-servico-dos-esquentadores/faq-6759",
+
+			"question2": "O que fazer para instalar um esquentador em minha casa?",
+			"answer2": "Para instalar um esquentador em sua casa deve garantir o acesso a um ponto de gás (natural ou butano/propano) na sua instalação, exaustão de fumos de combustão e espaço para a colocação do equipamento.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/esquentadores/o-que-fazer-para-instalar-um-esquentador-em-minha-casa/faq-6785",
+
+			"question3": "Quais os requisitos técnicos de um esquentador?",
+			"answer3": "Pelas suas potencialidades, um esquentador tem requisitos técnicos bastante específicos. É importante saber quais, para melhor lidar com o produto.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/esquentadores/quais-os-requisitos-tecnicos-de-um-esquentador/faq-6802",
+			
+			"question4": "Estou interessado em ter um esquentador, o que tenho de fazer?",
+			"answer4": "O próximo passo será entrar em contacto connosco. Para tal basta entrar no site da EDP Comercial, aceder à página da oferta e clicar no botão “Pretendo ser contactado”.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/esquentadores/estou-interessado-em-ter-um-esquentador-o-que-tenho-de-fazer/faq-6813"
+		},
+
+		"subFAQ13": {
+			"name": "Termoacumuladores",
+			"size": 4,
+
+			"question1": "O que é um termoacumulador inteligente e quais os modelos disponíveis?",
+			"answer1": "O termoacumulador inteligente é a solução com melhor relação qualidade-preço do mercado para o aquecimento de água, com uma eficiência superior à dos termoacumuladores convencionais.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/termoacumuladores/o-que-e-um-termoacumulador-inteligente-e-quais-os-modelos-disponiveis/faq-8498",
+
+			"question2": "O que preciso de fazer para ter um termoacumulador inteligente em minha casa?",
+			"answer2": "Para que a instalação de um termoacumulador inteligente seja realizada com sucesso, é essencial garantir que o local é adequado.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/termoacumuladores/o-que-preciso-de-fazer-para-ter-um-termoacumulador-inteligente/faq-8509",
+
+			"question3": "Quais os requisitos técnicos de um termoacumulador inteligente?",
+			"answer3": "Um termoacumulador é um aparelho com requisitos técnicos muito específicos que são importantes conhecer para melhor utilização e preservação do equipamento.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/termoacumuladores/quais-os-requisitos-tecnicos-de-um-termoacumulador-inteligente/faq-8533",
+			
+			"question4": "Estou interessado em adquirir um termoacumulador inteligente. O que tenho de fazer?",
+			"answer4": "Faça aqui a simulação e saiba qual a melhor solução para a sua casa. Se preferir, contacte-nos através da linha de atendimento a clientes 808 53 53 53.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/termoacumuladores/estou-interessado-em-ter-um-termoacumulador-inteligente/faq-8540"
+		},
+
+		"subFAQ14": {
+			"name": "Ar Condicionado",
+			"size": 4,
+
+			"question1": "O que é um ar condicionado e quais os modelos disponíveis?",
+			"answer1": "O ar condicionado é a solução mais eficiente disponível no mercado para o aquecimento e arrefecimento do ar ambiente, até 4 vezes mais eficiente.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/ar-condicionado/o-que-e-o-ar-condicionado-e-quais-os-modelos-disponiveis/faq-9490",
+
+			"question2": "O que preciso fazer para ter ar condicionado em minha casa?",
+			"answer2": "É essencial garantir que o local onde pretende instalar estes equipamentos seja adequado, de forma a garantir que todo o sistema está dentro das suas expectativas.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/ar-condicionado/o-que-preciso-fazer-para-ter-ar-condicionado-em-minha-casa/faq-9507",
+
+			"question3": "Quais os requisitos técnicos de um ar condicionado?",
+			"answer3": "O ar condicionado é um sistema com requisitos específicos que são importantes conhecer para melhor utilização e preservação do equipamento.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/ar-condicionado/quais-os-requisitos-tecnicos-de-um-ar-condicionado/faq-9528",
+			
+			"question4": "Estou interessado em ter um ar condicionado, o que tenho de fazer?",
+			"answer4": "Se pretende adquirir um ar condicionado basta entrar em contacto connosco através da linha 808 53 53 53 para marcar uma visita técnica e orçamentar a melhor solução para a sua casa.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/servicos/ar-condicionado/estou-interessado-em-ter-um-ar-condicionado-o-que-tenho-de-fazer/faq-9533"
+		}
+
+	},
+
+	"FAQ4": {
+		"subject": "Fazer novo contrato",
+		"size": 4,
+		"subFAQ1": {
+			"name": "O que tenho de fazer para ter energia em casa",
+			"size": 3,
+
+			"question1": "O que tenho de fazer para ter gás em casa?",
+			"answer1": "Para ter gás em sua casa, é necessária uma ligação à rede de distribuição de gás natural. Só depois poderá fazer um novo contrato com a EDP no mercado livre.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-tenho-de-fazer-para-ter-energia-em-casa/o-que-tenho-de-fazer-para-ter-gas-em-casa/faq-4514",
+
+			"question2": "O que tenho de fazer para ter eletricidade em casa?",
+			"answer2": "Para ter eletricidade em sua casa, é necessária uma ligação à rede elétrica. Só depois poderá fazer um novo contrato com a EDP Comercial. Se já tem ligação e contador instalado, pode pedir novo contrato através do site ou da linha 808 53 53 53.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-tenho-de-fazer-para-ter-energia-em-casa/o-que-tenho-de-fazer-para-ter-eletricidade-em-casa/faq-5335",
+
+			"question3": "Como faço novo contrato com a EDP no mercado livre?",
+			"answer3": "Contratar os produtos e serviços da EDP no mercado livre é simples e não tem custos. Apenas precisa de ter consigo uma fatura de eletricidade ou de gás, consoante o serviço que quiser contratar, e escolher a forma como pretende aderir.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-tenho-de-fazer-para-ter-energia-em-casa/como-faco-novo-contrato-com-a-edp-no-mercado-livre/faq-1979"
+		},
+
+		"subFAQ2": {
+			"name": "Tarifarios de Energia e Serviços",
+			"size": 2,
+
+			"question1": "Quais são os tarifários da EDP Comercial?",
+			"answer1": "Temos vários planos de energia para fornecimento de eletricidade, gás natural ou de ambos (oferta dual). Veja qual o plano mais adequado para si e peça a adesão online, através do 808 53 53 53 (dias úteis, das 8h às 22h) ou numa loja ou agente EDP.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/tarifarios-de-energia-e-servicos/quais-sao-os-tarifarios-da-edp-no-mercado-livre/faq-4613",
+
+			"question2": "Que serviços de energia posso ter?",
+			"answer2": "A EDP Comercial disponibiliza um conjunto de serviços de energia e equipamentos que lhe permitem ser mais eficiente no seu consumo e trazer maior conforto e segurança à sua casa. Conheça todos os serviços que temos para si.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/tarifarios-de-energia-e-servicos/que-servicos-de-energia-posso-ter/faq-4651"
+		},
+
+		"subFAQ3": {
+			"name": "O que preciso de saber para contratar",
+			"size": 12,
+
+			"question1": "Que documentos preciso para contratar?",
+			"answer1": "Saiba quais os documentos necessários para fazer um contrato.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/que-documentos-preciso-para-contratar/faq-8129",
+
+			"question2": "O que é o CPE e o CUI e como posso obtê-los?",
+			"answer2": "O CPE (código de ponto de entrega) é o número que identifica a sua instalação elétrica e o CUI (código universal da instalação) é o número que identifica a sua instalação de gás natural.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/o-que-e-o-cpe-e-o-cui-e-como-posso-obte-los/faq-8142",
+
+			"question3": "O que inclui o preço de energia?",
+			"answer3": "O preço da energia é composto por uma parte fixa e outra variável. A parte fixa diz respeito à potência elétrica contratada e ao escalão de consumo de gás, enquanto que a componente varíavel inclui a energia consumida no período e as taxas e impostos.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/o-que-inclui-o-preco-da-energia/faq-4669",
+			
+			"question4": "O que é a potência contratada e qual devo escolher?",
+			"answer4": "A potência contratada define o valor máximo de eletricidade que a sua instalação elétrica pode receber. Esta irá determinar o número de equipamentos elétricos que poderá ligar em simultâneo.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/o-que-e-a-potencia-contratada-e-qual-devo-escolher/faq-4676",
+
+			"question5": "O que é a opção horária e qual a melhor para mim?",
+			"answer5": "A opção horária é a forma como a eletricidade é faturada. Determina se o preço é o mesmo a qualquer hora (opção simples) ou se há horários mais económicos que outros (bi-horária/tri-horária). A melhor opção para si depende do seu nível e horário de consumo.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/o-que-e-a-opcao-horaria-e-qual-a-melhor-para-mim/faq-4823",
+
+			"question6": "O que é um escalão de consumo de gás?",
+			"answer6": "As tarifas de gás natural no mercado livre dividem-se em quatro escalões de consumo, determinados pelo nível de consumo anual de cada cliente. Pode consultar o seu escalão de gás natural na fatura ou na sua área de cliente.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/o-que-e-um-escalao-de-consumo-de-gas/faq-4857",
+
+			"question7": "Quais são as condições do meu novo contrato?",
+			"answer7": "O seu contrato de eletricidade e/ou gás natural  é composto por condições gerais (aplicáveis a todos os contratos) e partciculares (que dependem do plano de energia e serviços contratados). Para conhecer em detalhe as condições aceda à página &quot;Tarifários&quot;.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/que-dados-preciso-de-dar-e-quais-sao-as-condicies-do-meu-contrato/faq-5056",
+
+			"question8": "Que meios de pagamento tenho disponíveis?",
+			"answer8": "Pode pagar as suas faturas através de débito direto, multibanco, payshop, CTT ou numa das nossas lojas ou agentes. Caso pretenda garantir o pagamento atempado das suas faturas, com a máxima comodidade e sem preocupações, o débito direto é a melhor solução.",
+			"link8": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/que-meios-de-pagamento-tenho-disponiveis/faq-4985",
+
+			"question9": "Sobre a Fatura Eletrónica",
+			"answer9": "A Fatura Eletrónica é igual à fatura que lhe chega por correio e cumpre todas as exigências legais. O que muda é apenas a forma de envio: chega até si por e-mail.",
+			"link9": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/sobre-a-fatura-eletronica/faq-5093",
+
+			"question10": "Sobre a Conta Certa",
+			"answer10": "A Conta Certa é um acordo que lhe permite pagar um valor fixo na fatura de eletricidade e/ou gás natural durante 11 meses, fazendo um acerto de contas no 12º mês. Desta forma, evita oscilações no valor da fatura ao longo do ano, pagando sempre o mesmo.",
+			"link10": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/sobre-a-conta-certa/faq-5097",
+
+			"question11": "Como registar clientes com necessidades especiais?",
+			"answer11": "Se for um cliente com necessidades especiais (limitações visuais, auditivas, olfativas ou no domínio da comunicação oral), deve entregar o respetivo formulário e a declaração médica comprovativa da necessidade. Saiba como solicitar.",
+			"link11": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/como-registar-clientes-com-necessidades-especiais/faq-8815",
+
+			"question12": "Como registar clientes prioritários?",
+			"answer12": "Clientes prioritários são aqueles que prestam serviços de segurança ou saúde fundamentais à comunidade e para os quais o fornecimento de eletricidade ou de gás natural é essencial. Se for um cliente prioritário, deve entregar o respetivo formulário.",
+			"link12": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/o-que-preciso-de-saber-para-contratar/como-registar-clientes-prioritarios/faq-11432"
+		},
+
+		"subFAQ4": {
+			"name": "Quero saber mais sobre visitas técnicas",
+			"size": 3,
+
+			"question1": "Visitas técnicas de eletricidade",
+			"answer1": "As visitas técnicas de eletricidade são asseguradas pelo distribuidor de energia elétrica - a EDP Distribuição - entidade independente da EDP Comercial cuja principal missão é fazer chegar a energia elétrica a sua casa.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/quero-saber-mais-sobre-visitas-tecnicas/visitas-tecnicas-de-eletricidade/faq-5432",
+
+			"question2": "Visitas técnicas de gás natural",
+			"answer2": "As visitas técnicas de gás são feitas pelos operadores de distribuição de cada zona. São obrigatórias por lei sempre que se faz um novo contrato ou se muda o titular (caso não exista certificado válido), em casos de avaria/emergência ou para ler o contador.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/quero-saber-mais-sobre-visitas-tecnicas/visitas-tecnicas-de-gas-natural/faq-5333",
+
+			"question3": "Visitas técnicas de serviços de energia",
+			"answer3": "Os serviços de energia que a EDP Comercial tem ao seu dispor implicam, na maior parte dos casos, visitas técnicas a sua casa.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/novo-contrato/quero-saber-mais-sobre-visitas-tecnicas/visitas-tecnicas-de-servicos-de-energia/faq-4614"
+		}
+	},
+
+	"FAQ5": {
+		"subject": "Alterar o meu contrato",
+		"size": 1,
+		"subFAQ1": {
+			"name": "Alterar o meu contrato",
+			"size": 9,
+
+			"question1": "Quero consultar ou alterar as características do meu contrato",
+			"answer1": "Pode consultar o seu contrato em detalhe e alterar algumas das suas opções, nomeadamente a potência contratada, a opção horária, o meio de pagamento e o tipo de fatura na sua área de cliente EDP Online.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/quero-consultar-alterar-as-caracteristicas-do-meu-contrato/faq-4938",
+
+			"question2": "Quero fazer mais um contrato",
+			"answer2": "Pode celebrar vários contratos de energia e serviços com a EDP Comercial. Pode fazer um novo contrato através do site, da linha de atendimento ou numa loja ou agente EDP, e gerir os diversos contratos na sua área de cliente edp online.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/quero-fazer-mais-um-contrato/faq-2332",
+
+			"question3": "Quero consultar ou alterar dados pessoais do meu contrato",
+			"answer3": "Pode consultar ou alterar os seus dados pessoais através da sua área de cliente edp online, por telefone ou deslocando-se a uma loja ou agente. Saiba também como pode mudar o titular do seu contrato e que dados precisa para fazê-lo.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/quero-consultar-ou-alterar-dados-pessoais-do-meu-contrato/faq-2301",
+			
+			"question4": "Quero consultar ou alterar o meu plano de energia atual",
+			"answer4": "Para consultar ou alterar o seu plano de energia basta aceder à sua área de cliente edp online. Através dos detalhes do contrato pode, a qualquer momento, alterar o seu plano. Em alternativa, ligue 808 53 53 53 ou visite uma das nossas lojas ou agentes.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/quero-consultar-ou-alterar-a-minha-oferta-atual/faq-2327",
+
+			"question5": "Quero cancelar o contrato",
+			"answer5": "Para cancelar o seu contrato, é necessário que nos envie um pedido através do formulário. Antes de cancelar, pode ligar para o 808 53 53 53 e saber se existe outro plano EDP que lhe permita poupar mais na fatura.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/quero-cancelar-o-meu-contrato/faq-2337",
+
+			"question6": "Como registar clientes com necessidades especiais?",
+			"answer6": "Se for um cliente com necessidades especiais (limitações visuais, auditivas, olfativas ou no domínio da comunicação oral), deve entregar o respetivo formulário e a declaração médica comprovativa da necessidade. Saiba como solicitar.",
+			"link6": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/como-registar-clientes-com-necessidades-especiais/faq-8815",
+
+			"question7": "Como registar clientes prioritários?",
+			"answer7": "Clientes prioritários são aqueles que prestam serviços de segurança ou saúde fundamentais à comunidade e para os quais o fornecimento de eletricidade ou de gás natural é essencial. Se for um cliente prioritário, deve entregar o respetivo formulário.",
+			"link7": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/como-registar-clientes-prioritarios/faq-11432",
+
+			"question8": "Como é garantida a proteção dos meus dados e como posso gerir as autorizações de tratamento?",
+			"answer8": "Sabemos que os seus dados representam a sua privacidade. Por isso, na EDP Comercial queremos tratar os seus dados com segurança e de acordo com a sua preferência. A qualquer momento, pode alterar as suas permissões e definir que informação pretende receber.",
+			"link8": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/quais-os-direitos-dos-clientes-edp-comercial-na-gestao-dos-seus-dados/faq-11354",
+
+			"question9": "O que é o Livro de Reclamações online e como posso aceder?",
+			"answer9": "O Livro de Reclamações online tem como objetivo simplificar e modernizar o processo de apresentação e acompanhamento de reclamações e está disponível através do endereço www.livroreclamacoes.pt",
+			"link9": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/alterar-o-meu-contrato/o-que-e-o-livro-de-reclamacoes-online-e-como-posso-aceder/faq-8805"
+		}
+	},
+
+	"FAQ6": {
+		"subject": "Mudar de casa",
+		"size": 1,
+		"subFAQ1": {
+			"name": "Mudar de casa",
+			"size": 1,
+
+			"question1": "Vou mudar de casa. O que devo fazer para continuar a ser cliente EDP Comercial na nova casa?",
+			"answer1": "Se vai mudar de casa, a EDP Comercial ajuda-o(a) a levar a energia. Reúna os documentos necessários e peça a mudança através do 808 53 53 53 ou numa loja. Garantimos a ligação de energia na nova casa e o desligamento na antiga de forma coordenada e simples.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/mudar-de-casa/como-posso-aderir-a-edp-na-nova-casa/faq-4362"
+		}
+	},
+
+	"FAQ7": {
+		"subject": "Enviar leituras",
+		"size": 3,
+		"subFAQ1": {
+			"name": "Porque devo comunicar leituras e como?",
+			"size": 5,
+
+			"question1": "Porque devo enviar leituras?",
+			"answer1": "Deve enviar regularmente as leituras do seu contador de eletricidade e/ou de gás natural para garantir que o valor das suas faturas corresponde à energia que efetivamente consome.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/porque-devo-comunicar-leituras-e-como/porque-devo-comunicar-leituras/faq-2379",
+
+			"question2": "Como posso retirar as leituras do meu contador?",
+			"answer2": "No caso da eletricidade, a leitura a considerar depende do tipo de contador que tiver instalado. Já para o gás natural, o processo de leitura é mais simples e igual para todos os contadores.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/porque-devo-comunicar-leituras-e-como/como-posso-retirar-as-leituras-do-meu-contador/faq-3710",
+
+			"question3": "Como posso enviar leituras?",
+			"answer3": "Pode enviar o valor referente ao seu consumo de eletricidade ou gás através do EDP Online, do formulário de contactos, da linha gratuita 800 10 53 53 ou numa lojas ou agente. Para evitar estimativas, envie a leitura na data ideal indicada na fatura.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/porque-devo-comunicar-leituras-e-como/como-posso-comunicar-leituras/faq-5758",
+			
+			"question4": "Qual a melhor data para enviar leituras?",
+			"answer4": "A data ideal para enviar leituras vem indicada na sua fatura. Para evitar estimativas, deve enviar a leitura nessa data. Caso o faça numa data posterior, poderá não ser considerada na fatura imediatamente a seguir ou parte do consumo será estimado.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/porque-devo-comunicar-leituras-e-como/qual-a-melhor-data-para-comunicar-leituras/faq-5759",
+
+			"question5": "Tenho conta certa. Devo comunicar leitura?",
+			"answer5": "Para poder assegurar o controlo dos seus consumos ao longo do ano deve comunicar a sua leitura, no mínimo, a cada três meses, mesmo que tenha o serviço Conta Certa.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/porque-devo-comunicar-leituras-e-como/tenho-conta-certa-devo-comunicar-a-leitura/faq-5760"
+		},
+
+		"subFAQ2": {
+			"name": "Já dei a leitura. E agora?",
+			"size": 3,
+
+			"question1": "Já dei a leitura. Quanto vou pagar?",
+			"answer1": "Se deu a leitura na data ideal, a próxima fatura deverá ter apenas os seus consumos reais e a anulação de estimativas anteriores. Se enviou noutra data, a leitura poderá não ser incluída na fatura imediatamente a seguir ou parte do consumo será estimado.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/ja-dei-leitura-e-agora/ja-dei-leitura-quanto-vou-pagar/faq-5761",
+
+			"question2": "Enviei uma leitura que não foi considerada na fatura. O que faço?",
+			"answer2": "A razão pela qual a leitura não foi considerada pode dever-se à data em que foi enviada, a um desfasamento significativo entre o valor real e o valor estimado ou ao envio de mais do que uma leitura por dia. A forma de atuar depende da situação em causa.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/ja-dei-leitura-e-agora/dei-uma-leitura-e-nao-foi-integrada-o-que-faco/faq-2785",
+
+			"question3": "A leitura que dei é diferente da que surge na fatura",
+			"answer3": "Caso exista uma diferença entre o valor faturado e o consumo real, detetada por si ou por um técnico da EDP numa das visitas periódicas, haverá lugar a um acerto de contas.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/ja-dei-leitura-e-agora/a-leitura-que-dei-a-diferente-da-que-surge-na-fatura/faq-5763"
+		},
+
+		"subFAQ3": {
+			"name": "O que são contadores inteligentes?",
+			"size": 2,
+
+			"question1": "O que é um contador inteligente e como funciona?",
+			"answer1": "Um contador inteligente (ou smart meter) é um contador que regista a eletricidade consumida em pequenos intervalos de tempo. Se estiver em telecontagem, o contador inteligente permite enviar leituras de forma automática e faturar apenas consumos reais.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/o-que-sao-contadores-inteligentes/o-que-e-um-contador-inteligente-e-como-funciona/faq-11235",
+
+			"question2": "O que tenho de fazer para ter um contador inteligente?",
+			"answer2": "Atualmente ainda não é possível pedir a instalação de um contador inteligente. No entanto, o operador de rede de distribuição está a instalar estes novos contadores por todo o país. Em 2020 espera-se que 60% dos contadores em Portugal sejam inteligentes.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/leituras/o-que-sao-contadores-inteligentes/o-que-tenho-de-fazer-para-ter-um-contador-inteligente/faq-11277"
+		}
+	},
+
+	"FAQ8": {
+		"subject": "Sobre faturas e pagamentos",
+		"size": 4,
+		"subFAQ1": {
+			"name": "Como ler a minha fatura",
+			"size": 3,
+
+			"question1": "Os meus dados de identificação e tarifário",
+			"answer1": "Os dados de identificação e do tarifário contratado surgem no topo da sua fatura, seguidos do valor a pagar. A morada para onde a fatura é enviada e os dados pessoais do titular do contrato (nome e NIF) surgem logo depois.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-ler-a-minha-fatura/os-meus-dados-de-identificacao-e-tarifario/faq-5737",
+
+			"question2": "Os meus consumos",
+			"answer2": "O seu consumo corresponde à quantidade de energia que utiliza em sua casa e é calculado com base nas leituras recolhidas no seu contador. Na falta de leituras atuais, é calculada uma estimativa com base no seu padrão de consumo passado.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-ler-a-minha-fatura/os-meus-consumos/faq-2849",
+
+			"question3": "Sobre a nova fatura EDP",
+			"answer3": "A nova fatura EDP está tão simples que lhe dá mais tempo para si. Apresenta toda a informação de forma clara e intuitiva, com especial destaque para os temas mais importantes, facilitando a sua leitura. Saiba onde encontrar toda a informação essencial.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-ler-a-minha-fatura/sobre-a-nova-fatura-edp/faq-6383"
+		},
+
+		"subFAQ2": {
+			"name": "Sobre o valor da minha fatura",
+			"size": 3,
+
+			"question1": "O valor da minha fatura é superior ao habitual",
+			"answer1": "Pode reduzir a sua fatura de energia tornando a sua casa mais eficiente e aproveitando as vantagens que temos para si. Conheça as medidas de eficiência que pode adotar no dia a dia, os descontos da Comunidade EDP e os serviços que o ajudam a poupar.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/sobre-o-valor-da-minha-fatura/o-valor-da-minha-fatura-a-superior-ao-habitual/faq-5767",
+
+			"question2": "Como posso reduzir a minha fatura de energia?",
+			"answer2": "Pode reduzir a sua fatura de energia tornando a sua casa mais eficiente e beneficiando das vantagens que temos para si. Conheça as medidas que pode adotar no dia a dia, os descontos da Comunidade EDP e os Serviços que o ajudam a poupar.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/sobre-o-valor-da-minha-fatura/como-posso-reduzir-a-minha-fatura-de-energia/faq-5754",
+
+			"question3": "Que taxas, impostos e contribuições me são cobrados e o que são?",
+			"answer3": "O consumo de energia está sujeito a taxas e impostos que vêm discriminados na fatura. À eletricidade aplica-se o Imposto Especial de Consumo, a Taxa de Exploração e a Contribuição Audiovisual. Ao gás natural, aplica-se o IEC e a Taxa de Ocupação do Subsolo.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/sobre-o-valor-da-minha-fatura/que-taxas-impostos-e-contribuicoes-me-sao-cobrados-e-o-que-sao/faq-5740"
+		},
+
+		"subFAQ3": {
+			"name": "Como receber e pagar a minha fatura",
+			"size": 5,
+
+			"question1": "Ainda não recebi a fatura ou quero uma 2ª via",
+			"answer1": "Através do EDP Online pode consultar e fazer download de todas as suas faturas e verificar se tem algum pagamento em atraso. Caso esteja sem receber fatura há mais de 3 meses, contacte-nos através do 808 53 53 53 (dias úteis das 8h às 22h).",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-receber-e-pagar-a-minha-fatura/ainda-nao-recebi-quero-uma-segunda-via-da-fatura/faq-5769",
+
+			"question2": "Que meios de pagamento tenho disponíveis?",
+			"answer2": "Pode pagar as suas faturas através de débito direto, multibanco, payshop, CTT ou numa das nossas lojas ou agentes. Caso pretenda garantir o pagamento atempado das suas faturas, com a máxima comodidade e sem preocupações, o débito direto é a melhor solução.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-receber-e-pagar-a-minha-fatura/que-meios-de-pagamento-tenho-disponiveis/faq-4985",
+
+			"question3": "Sobre a Fatura Eletrónica",
+			"answer3": ">A Fatura Eletrónica é igual à fatura que lhe chega por correio e cumpre todas as exigências legais. O que muda é apenas a forma de envio: chega até si por e-mail.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-receber-e-pagar-a-minha-fatura/sobre-a-fatura-eletronica/faq-5093",
+			
+			"question4": "Sobre a Conta Certa",
+			"answer4": "A Conta Certa é um acordo que lhe permite pagar um valor fixo na fatura de eletricidade e/ou gás natural durante 11 meses, fazendo um acerto de contas no 12º mês. Desta forma, evita oscilações no valor da fatura ao longo do ano, pagando sempre o mesmo.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-receber-e-pagar-a-minha-fatura/sobre-a-conta-certa/faq-5097",
+
+			"question5": "O que são os meus dados de faturação e como posso alterá-los?",
+			"answer5": "Os seus dados de faturação correspondem à informação relativa ao envio e pagamento da sua fatura, nomeadamente a periodicidade, a morada/e-mail para onde é enviada e o meio de pagamento. Pode alterá-los de forma simples e cómoda na sua área EDP Online.",
+			"link5": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/como-receber-e-pagar-a-minha-fatura/o-que-sao-os-meus-dados-de-faturacao-e-como-posso-altera-los/faq-2860"
+		},
+
+		"subFAQ4": {
+			"name": "Sobre a nova fatura interativa",
+			"size": 4,
+
+			"question1": "Como posso abrir a nova fatura interativa no meu computador?",
+			"answer1": "Pode abrir a sua fatura interativa diretamente através do PDF que enviamos no e-mail, ou guardando o PDF no seu computador. Também pode fazê-lo através do edp online. Se tiver dúvidas, consulte aqui os requisitos técnicos.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/sobre-a-nova-fatura-interativa/como-posso-abrir-a-nova-fatura-interativa-no-meu-computador/faq-6691",
+
+			"question2": "Como posso abrir a nova fatura interativa no meu smartphone ou tablet?",
+			"answer2": "Quando receber o email com a sua fatura, basta clicar no PDF em anexo e depois, no link “Para ver a sua fatura com interatividade, carregue aqui”.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/sobre-a-nova-fatura-interativa/como-posso-abrir-a-nova-fatura-interativa-no-meu-smartphone-ou-tablet/faq-6749",
+
+			"question3": "Como posso imprimir a minha fatura eletrónica interativa?",
+			"answer3": "Saiba como imprimir a sua fatura interativa através do Acrobat Reader.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/sobre-a-nova-fatura-interativa/como-posso-imprimir-a-minha-fatura-eletronica-interativa/faq-7999",
+			
+			"question4": "Como posso guardar a minha fatura eletrónica interativa?",
+			"answer4": "Para guardar a sua fatura interativa é simples. Basta selecionar a opção de guardar fatura através do Acrobat Reader.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/faturas-e-pagamentos/sobre-a-nova-fatura-interativa/como-posso-guardar-a-minha-fatura-eletronica-interativa/faq-8002"
+		}
+	},
+
+	"FAQ9": {
+		"subject": "Fiquei sem eletricidade ou gás natural",
+		"size": 1,
+		"subFAQ1": {
+			"name": "Fiquei sem eletricidade ou gás natural",
+			"size": 2,
+
+			"question1": "Fiquei sem eletricidade. O que devo fazer?",
+			"answer1": "Primeiro, tente identificar a origem da falha. Verifique se existe luz na rua, se os vizinhos têm luz, se tem os pagamentos em dia ou se algum equipamento fez &quot;disparar&quot; o disjuntor/quadro. Caso não encontre o problema, ligue 808 100 100 (EDP Distribuição).",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/fiquei-sem-eletricidade-gas-natural/fiquei-sem-eletricidade-o-que-devo-fazer/faq-4415",
+
+			"question2": "Fiquei sem gás natural. O que devo fazer?",
+			"answer2": "Primeiro, tente identificar a origem da falha. Verifique se tem gás em algum dos equipamentos (se tiver, o problema pode ser do aparelho) ou se fechou as torneiras de segurança por engano. Caso não encontre o problema, contacte o seu distribuidor de gás.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/fiquei-sem-eletricidade-gas-natural/fiquei-sem-gas-o-que-devo-fazer/faq-5764"
+		}
+	},
+
+	"FAQ10": {
+		"subject": "Conhecer benefícios e campanhas",
+		"size": 1,
+		"subFAQ1": {
+			"name": "Conhecer benefícios e campanhas",
+			"size": 3,
+
+			"question1": "O que é a Comunidade EDP?",
+			"answer1": "A Comunidade EDP junta as famílias e as empresas para trazer poupança nas compras do dia a dia e na fatura de energia. Inscreva-se e tenha acesso gratuito a descontos na fatura e no comércio local, passatempos, campanhas e dicas de eficiência energética.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/beneficios-e-campanhas/o-que-e-a-comunidade-edp/faq-4606",
+
+			"question2": "Como me posso registar na Comunidade EDP?",
+			"answer2": "Para se registar na comunidade EDP aceda a comunidade.edp.pt e clique em &quot;Entrar&quot;, onde pode fazer login ou registar-se. A partir daí poderá começar a receber novidades, descontos, sugestões e dicas com base nos seus interesses.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/beneficios-e-campanhas/como-posso-registar-na-comunidade-edp/faq-6188",
+
+			"question3": "Como posso tornar-me parceiro da Comunidade EDP e quais as vantagens?",
+			"answer3": "Ao ser parceiro da Comunidade EDP, o seu negócio passa a ter a acesso a uma página própria, campanhas exclusivas e a comunicações junto dos clientes EDP Comercial. Para se registar e levar o seu negócio a mais pessoas, basta ter um contrato EDP Comercial.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/beneficios-e-campanhas/como-posso-tornar-me-parceiro-da-comunidade-edp-e-quais-as-vantagens/faq-11500"
+		}
+	},
+
+	"FAQ11": {
+		"subject": "Sobre o EDP Online - a sua área de cliente",
+		"size": 1,
+		"subFAQ1": {
+			"name": "Sobre o EDP Online - a sua área de cliente",
+			"size": 4,
+
+			"question1": "Como posso registar-me na minha área de cliente?",
+			"answer1": "O EDP Online é a área de cliente da EDP onde poderá encontrar toda a informação relativa aos seus contratos com a EDP, fazer alterações contratuais, consultar as suas faturas, enviar leituras e muito mais.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/area-de-cliente-edp-online/como-posso-registar-me-na-area-de-cliente/faq-5361",
+
+			"question2": "O que posso fazer na minha área de cliente?",
+			"answer2": "Na sua área de cliente EDP Online, pode gerir toda a sua relação com a EDP Comercial de uma forma simples e rápida, onde e quando quiser. Para cada contrato, pode enviar leituras, consultar faturas, acompanhar consumos e alterar dados, entre outras coisas.",
+			"link2": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/area-de-cliente-edp-online/o-que-posso-fazer-na-minha-area-de-cliente-edp-online/faq-5454",
+
+			"question3": "O que posso fazer a partir do telemóvel ou tablet?",
+			"answer3": "A aplicação EDP Online permite-lhe aceder a todas as funcionalidades da sua área de cliente a partir do telemóvel ou tablet, como o envio de leituras, consulta de faturas, pagamentos e muito mais. Faça o download gratuito na App Store ou Google Play.",
+			"link3": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/area-de-cliente-edp-online/o-que-posso-fazer-na-aplicacao-edp-online-no-telemovel-tablet/faq-5691",
+			
+			"question4": "Como posso recuperar a minha password e/ou desbloquear a minha conta?",
+			"answer4": "Quer se tenha esquecido dos seus dados de acesso ao EDP Online ou tenha ultrapassado o número de tentativas permitidas de login, pode recuperar o acesso à sua área reservada de cliente. Siga as nossas instruções.",
+			"link4": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/area-de-cliente-edp-online/como-posso-recuperar-a-password-e-ou-desbloquear-a-minha-conta/faq-5756"
+		}
+	},
+
+	"FAQ12": {
+		"subject": "Poupar na fatura",
+		"size": 1,
+		"subFAQ1": {
+			"name": "Poupar na fatura",
+			"size": 1,
+
+			"question1": "Como posso reduzir a minha fatura de energia?",
+			"answer1": "Pode reduzir a sua fatura de energia tornando a sua casa mais eficiente e beneficiando das vantagens que temos para si. Conheça as medidas que pode adotar no dia a dia, os descontos da Comunidade EDP e os Serviços que o ajudam a poupar.",
+			"link1": "https://www.edp.pt/particulares/apoio-cliente/perguntas-frequentes/poupar-na-fatura/como-posso-reduzir-a-minha-fatura-de-energia/faq-5754"
+		}
+	}
+}
